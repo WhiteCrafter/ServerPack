@@ -1,0 +1,13 @@
+name = "Advanced Compass"
+filename = "advancedcompass.forge.1.20.1-1.2.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07c3042d35fbb7fd1ecb1c78eb34fe2f213c4a2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4589756
+project-id = 461424

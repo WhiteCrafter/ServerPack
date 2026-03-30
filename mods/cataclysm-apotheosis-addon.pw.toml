@@ -1,0 +1,13 @@
+name = "Cataclysm Apotheosis Addon (update stop)"
+filename = "cataclysm_ut_lite-8 - 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "642e37ae6fb388953702b8092e8adfbf2997a328"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6250451
+project-id = 1009804

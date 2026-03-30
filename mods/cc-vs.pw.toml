@@ -1,0 +1,13 @@
+name = "CC: VS"
+filename = "cc_vs-1.20.1-forge-0.6.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51c60e370ed9081d32d704bffd12a7fb9b06363f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7551609
+project-id = 958065
