@@ -1647,11 +1647,6 @@ hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
-file = "mods/quark-delight.pw.toml"
-hash = "3530e36f831f968105b2a8f5fe476eb2045bb4ad9f04a757958a94ad81f87790"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
