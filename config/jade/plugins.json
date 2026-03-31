@@ -70,8 +70,14 @@
     "ench": true,
     "spawner": true
   },
+  "waystones": {
+    "waystone": true
+  },
   "corpse": {
     "corpse": true
+  },
+  "balm": {
+    "jade": true
   },
   "storagedrawers": {
     "display.stacklimit": true,
